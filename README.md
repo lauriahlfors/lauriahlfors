@@ -1,4 +1,4 @@
-<img src="assets/hero-banner.jpg" style="width:50%; height:auto;">
+<img src="assets/hero-banner.jpg" style="width:100%; height:auto;">
 
 # @lauriahlfors - Lauri Ahlfors
 
